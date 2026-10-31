@@ -7,7 +7,7 @@ import { SoundProvider } from '@/components/providers/SoundProvider';
 import { PlayerProvider } from '@/components/providers/PlayerProvider';
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://pixelplay.gg'),
+  metadataBase: new URL('https://pixelplays.me'),
   title: {
     default: 'PIXELPLAY — Small Games. Big Scores.',
     template: '%s | PIXELPLAY',
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://pixelplay.gg',
+    url: 'https://pixelplays.me',
     siteName: 'PIXELPLAY',
     title: 'PIXELPLAY — Small Games. Big Scores.',
     description:
